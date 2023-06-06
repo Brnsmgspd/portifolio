@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../../Sublime/HTML/Aulas"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../../../figma-to-html"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Site Canaã"
+	}
+}
